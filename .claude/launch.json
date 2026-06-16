@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "brochure-retail",
+      "runtimeExecutable": "/Users/samtippett/.local/share/fnm/node-versions/v24.16.0/installation/bin/node",
+      "runtimeArgs": ["node_modules/next/dist/bin/next", "dev", "-p", "3200"],
+      "port": 3200
+    }
+  ]
+}
